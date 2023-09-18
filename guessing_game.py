@@ -24,4 +24,4 @@ while random_int != guess:
         guess = int(input("Enter your guess again \n>>> "))
     else:
         break
-print("Congrats!!! you guesses the number!")
+print("Congrats!!! You guesses the number!")
